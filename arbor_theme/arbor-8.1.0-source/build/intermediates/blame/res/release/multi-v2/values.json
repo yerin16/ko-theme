@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/student/Desktop/Visual Design/2020 대한민국디자인박람회YOUTH/본선/식목일 테마/arbor-8.1.0-source/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/student/Desktop/Visual Design/2020 대한민국디자인박람회YOUTH/본선/식목일 테마/arbor-8.1.0-source/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "191"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "2989",
+                        "endLines": "50",
+                        "endColumns": "12",
+                        "endOffsets": "3125"
+                    }
+                },
+                {
+                    "source": "/Users/student/Desktop/Visual Design/2020 대한민국디자인박람회YOUTH/본선/식목일 테마/arbor-8.1.0-source/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,63",
+                        "endOffsets": "94,158"
+                    },
+                    "to": {
+                        "startLines": "45,46",
+                        "startColumns": "4,4",
+                        "startOffsets": "2831,2875",
+                        "endColumns": "43,63",
+                        "endOffsets": "2870,2934"
+                    }
+                },
+                {
+                    "source": "/Users/student/Desktop/Visual Design/2020 대한민국디자인박람회YOUTH/본선/식목일 테마/arbor-8.1.0-source/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                },
+                {
+                    "source": "/Users/student/Desktop/Visual Design/2020 대한민국디자인박람회YOUTH/본선/식목일 테마/arbor-8.1.0-source/src/main/theme/values/colors.xml",
+                    "from": {
+                        "startLines": "36,51,49,50,54,38,88,91,98,97,99,100,101,94,20,21,65,64,63,30,31,26,27,46,6,57,69,70,68,16,17,40,73,77,75,78,76,80,9,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1532,2035,1913,1971,2149,1606,3307,3390,3645,3580,3721,3796,3873,3488,809,904,2488,2422,2363,1300,1395,1075,1170,1818,107,2242,2656,2726,2597,585,680,1690,2827,3015,2883,3088,2945,3172,242,362,457",
+                        "endColumns": "56,64,57,63,65,65,64,65,75,64,74,76,74,67,57,65,69,65,58,64,72,61,69,57,52,60,69,77,58,55,63,65,54,72,61,82,69,67,59,51,59",
+                        "endOffsets": "1584,2095,1966,2030,2210,1667,3367,3451,3716,3640,3791,3868,3943,3551,862,965,2553,2483,2417,1360,1463,1132,1235,1871,155,2298,2721,2799,2651,636,739,1751,2877,3083,2940,3166,3010,3235,297,409,512"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "104,161,226,284,348,414,480,545,611,687,752,827,904,979,1047,1105,1171,1241,1307,1366,1431,1504,1566,1636,1694,1747,1808,1878,1956,2015,2071,2135,2201,2256,2329,2391,2474,2544,2612,2672,2724",
+                        "endColumns": "56,64,57,63,65,65,64,65,75,64,74,76,74,67,57,65,69,65,58,64,72,61,69,57,52,60,69,77,58,55,63,65,54,72,61,82,69,67,59,51,59",
+                        "endOffsets": "156,221,279,343,409,475,540,606,682,747,822,899,974,1042,1100,1166,1236,1302,1361,1426,1499,1561,1631,1689,1742,1803,1873,1951,2010,2066,2130,2196,2251,2324,2386,2469,2539,2607,2667,2719,2779"
+                    }
+                },
+                {
+                    "source": "/Users/student/Desktop/Visual Design/2020 대한민국디자인박람회YOUTH/본선/식목일 테마/arbor-8.1.0-source/src/main/theme/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,55",
+                        "endColumns": "46,49",
+                        "endOffsets": "147,100"
+                    },
+                    "to": {
+                        "startLines": "44,47",
+                        "startColumns": "4,4",
+                        "startOffsets": "2784,2939",
+                        "endColumns": "46,49",
+                        "endOffsets": "2826,2984"
+                    }
+                }
+            ]
+        }
+    ]
+}

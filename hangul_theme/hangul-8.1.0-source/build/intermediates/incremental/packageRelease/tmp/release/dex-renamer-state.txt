@@ -1,0 +1,4 @@
+#Sat Sep 19 18:36:02 KST 2020
+base.0=/Users/student/Desktop/Visual Design/2020 대한민국디자인박람회YOUTH/본선/ 한글날 테마/hangul-8.1.0-source/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
