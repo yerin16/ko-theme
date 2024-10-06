@@ -17,9 +17,9 @@ In Korea, many people overlook anniversaries unless they are national holidays. 
 
 ## Features
 
-- Custom Themes for Anniversaries: Each theme is specifically designed to represent a particular Korean anniversary, offering a brief explanation along with visual elements that reflect the meaning of the day.
-- Zodiac Characters: The themes include Zodiac characters that change monthly, depending on the anniversary, adding an interactive and engaging element to keep users interested.
-- Illustrated Symbols: Each anniversary is represented by symbols that are illustrated to reflect its importance, creating a strong visual connection for users.
+- **Custom Themes for Anniversaries:** Each theme is specifically designed to represent a particular Korean anniversary, offering a brief explanation along with visual elements that reflect the meaning of the day.
+- **Zodiac Characters:** The themes include Zodiac characters that change monthly, depending on the anniversary, adding an interactive and engaging element to keep users interested.
+- **Illustrated Symbols:** Each anniversary is represented by symbols that are illustrated to reflect its importance, creating a strong visual connection for users.
 
 ## Themes
 
