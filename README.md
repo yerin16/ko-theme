@@ -2,7 +2,7 @@
 
 KO:Theme is a KakaoTalk channel service designed to raise awareness of Korean anniversaries by delivering themed content to subscribers. This project aims to help users recognize and appreciate the significance of various Korean anniversaries through visually engaging and informative themes. By utilizing KakaoTalk, which is widely used by 72% of the Korean population, KO:Theme effectively reaches a broad audience to spread awareness of important national days and other significant events.
 
-<img src="https://github.com/yerin16/ko-theme/blob/main/images/kotheme-panel.png?raw=true" alt="KO:Theme Panel" width="200" style="display: block; margin: 0 auto"/>
+<img src="https://github.com/yerin16/ko-theme/blob/master/images/kotheme-panel.png?raw=true" alt="KO:Theme Panel" width="200" style="display: block; margin: 0 auto"/>
 
 
 ## Table of Contents
@@ -26,12 +26,12 @@ In Korea, many people overlook anniversaries unless they are national holidays. 
 
 ### Hangul Day
 
-![Hangul Day](https://github.com/yerin16/ko-theme/blob/main/images/subpanel-hangul.png?raw=true)
+![Hangul Day](https://github.com/yerin16/ko-theme/blob/master/images/subpanel-hangul.png?raw=true)
 
 ### Labor Day
 
-![Hangul Day](https://github.com/yerin16/ko-theme/blob/main/images/subpanel-labor.png?raw=true)
+![Hangul Day](https://github.com/yerin16/ko-theme/blob/master/images/subpanel-labor.png?raw=true)
 
 ### Arbor Day
 
-![Hangul Day](https://github.com/yerin16/ko-theme/blob/main/images/subpanel-arbor.png?raw=true)
+![Hangul Day](https://github.com/yerin16/ko-theme/blob/master/images/subpanel-arbor.png?raw=true)
