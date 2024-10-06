@@ -2,8 +2,7 @@
 
 KO:Theme is a KakaoTalk channel service designed to raise awareness of Korean anniversaries by delivering themed content to subscribers. This project aims to help users recognize and appreciate the significance of various Korean anniversaries through visually engaging and informative themes. By utilizing KakaoTalk, which is widely used by 72% of the Korean population, KO:Theme effectively reaches a broad audience to spread awareness of important national days and other significant events.
 
-<img src="https://github.com/yerin16/ko-theme/blob/master/images/kotheme-panel.png?raw=true" alt="KO:Theme Panel" width="200" style="display: block; margin: 0 auto"/>
-
+<p align="center"><img src="https://github.com/yerin16/ko-theme/blob/master/images/kotheme-panel.png?raw=true" alt="KO:Theme Panel" width="200"/></p>
 
 ## Table of Contents
 
